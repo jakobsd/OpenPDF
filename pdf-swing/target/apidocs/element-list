@@ -1,0 +1,10 @@
+com.lowagie.rups
+com.lowagie.rups.controller
+com.lowagie.rups.io
+com.lowagie.rups.io.filters
+com.lowagie.rups.model
+com.lowagie.rups.view
+com.lowagie.rups.view.icons
+com.lowagie.rups.view.itext
+com.lowagie.rups.view.itext.treenodes
+com.lowagie.rups.view.models

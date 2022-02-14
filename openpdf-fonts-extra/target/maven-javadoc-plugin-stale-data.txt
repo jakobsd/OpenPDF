@@ -1,0 +1,56 @@
+/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/11.0.14-9/x64/bin/javadoc
+-Xdoclint:none
+@options
+@packages
+-classpath
+'/home/runner/work/OpenPDF/OpenPDF/openpdf/target/openpdf-1.3.26.jar:/home/runner/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/src/main/java:/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'openpdf-fonts-extra 1.3.26 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/javadoc-bundle-options'
+-linkoffline
+'https://github.com/LibrePDF/OpenPDF/openpdf/apidocs' '/home/runner/work/OpenPDF/OpenPDF/openpdf/target/apidocs'
+-use
+-version
+-windowtitle
+'openpdf-fonts-extra 1.3.26 API'
+org.librepdf.openpdf.fonts
+/home/runner/work/OpenPDF/OpenPDF/openpdf/target/openpdf-1.3.26.jar = 1644853949307
+/home/runner/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar = 1644853934770
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/src/main/java = 1644853914686
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/generated-sources/annotations = 1644853966407
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/constant-values.html = 1644853968947
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/member-search-index.js = 1644853968995
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/package-search-index.js = 1644853968991
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/help-doc.html = 1644853969019
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/index.html = 1644853969015
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/overview-tree.html = 1644853968979
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/package-search-index.zip = 1644853968995
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/search.js = 1644853969027
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/stylesheet.css = 1644853969027
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/member-search-index.zip = 1644853968995
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/element-list = 1644853968923
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/index-all.html = 1644853968999
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/type-search-index.zip = 1644853968995
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/script.js = 1644853969027
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/allclasses.html = 1644853969015
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/type-search-index.js = 1644853968995
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/allclasses-index.html = 1644853969007
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/deprecated-list.html = 1644853969015
+/home/runner/work/OpenPDF/OpenPDF/openpdf-fonts-extra/target/apidocs/allpackages-index.html = 1644853969007

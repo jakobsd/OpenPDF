@@ -1,0 +1,117 @@
+/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/11.0.14-9/x64/bin/javadoc
+-Xdoclint:none
+@options
+@packages
+-classpath
+'/home/runner/work/OpenPDF/OpenPDF/openpdf/target/openpdf-1.3.26.jar:/home/runner/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/runner/.m2/repository/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar:/home/runner/.m2/repository/org/jfree/jcommon/1.0.24/jcommon-1.0.24.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/src/main/java:/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pdf-toolbox 1.3.26 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/javadoc-bundle-options'
+-linkoffline
+'https://github.com/LibrePDF/OpenPDF/openpdf/apidocs' '/home/runner/work/OpenPDF/OpenPDF/openpdf/target/apidocs'
+-use
+-version
+-windowtitle
+'pdf-toolbox 1.3.26 API'
+com.lowagie.tools
+com.lowagie.tools
+com.lowagie.tools
+com.lowagie.tools
+com.lowagie.tools
+com.lowagie.tools
+com.lowagie.tools
+com.lowagie.toolbox
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments.filters
+com.lowagie.toolbox.arguments.filters
+com.lowagie.toolbox.arguments.filters
+com.lowagie.toolbox.arguments.filters
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins.watermarker
+com.lowagie.toolbox.plugins.watermarker
+com.lowagie.toolbox.plugins.watermarker
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox
+com.lowagie.toolbox
+com.lowagie.toolbox
+com.lowagie.toolbox.swing
+com.lowagie.toolbox.swing
+com.lowagie.toolbox.swing
+com.lowagie.toolbox.swing
+org.librepdf.openpdf.examples.fonts.languages
+/home/runner/work/OpenPDF/OpenPDF/openpdf/target/openpdf-1.3.26.jar = 1644853949307
+/home/runner/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar = 1644853934770
+/home/runner/.m2/repository/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar = 1644853961427
+/home/runner/.m2/repository/org/jfree/jcommon/1.0.24/jcommon-1.0.24.jar = 1644853961391
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/src/main/java = 1644853914818
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/generated-sources/annotations = 1644853961511
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/serialized-form.html = 1644853966051
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/constant-values.html = 1644853966043
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/member-search-index.js = 1644853966199
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/package-search-index.js = 1644853966191
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/help-doc.html = 1644853966231
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/index.html = 1644853966231
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/overview-tree.html = 1644853966135
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/package-search-index.zip = 1644853966199
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/search.js = 1644853966235
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/stylesheet.css = 1644853966235
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/member-search-index.zip = 1644853966203
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/overview-summary.html = 1644853966231
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/element-list = 1644853966011
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/index-all.html = 1644853966207
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/type-search-index.zip = 1644853966199
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/script.js = 1644853966235
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/allclasses.html = 1644853966227
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/type-search-index.js = 1644853966199
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/allclasses-index.html = 1644853966215
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/deprecated-list.html = 1644853966223
+/home/runner/work/OpenPDF/OpenPDF/pdf-toolbox/target/apidocs/allpackages-index.html = 1644853966219

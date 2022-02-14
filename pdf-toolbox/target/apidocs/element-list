@@ -1,0 +1,8 @@
+com.lowagie.toolbox
+com.lowagie.toolbox.arguments
+com.lowagie.toolbox.arguments.filters
+com.lowagie.toolbox.plugins
+com.lowagie.toolbox.plugins.watermarker
+com.lowagie.toolbox.swing
+com.lowagie.tools
+org.librepdf.openpdf.examples.fonts.languages
