@@ -4,10 +4,6 @@
 
 name: Build single jar file
 on:
-  push:
-    branches: [ 'my_try_with_1.3.26' ]
-  pull_request:
-    branches: [ 'my_try_with_1.3.26' ]
   workflow_dispatch:
     inputs:
       someInput:
