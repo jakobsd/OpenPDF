@@ -436,9 +436,8 @@
                     <plugin>
                         <artifactId>maven-assembly-plugin</artifactId>
                         <configuration>
-                            <phase>package</phase>
                             <descriptorRefs>
-                                <descriptorRef>jar-with-dependencies</descriptorRef>
+                                <descriptorRef>assembly/asde.xml</descriptorRef>
                             </descriptorRefs>
                         </configuration>
                     </plugin>
