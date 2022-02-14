@@ -26,7 +26,7 @@ jobs:
           java-version: '11'
           distribution: 'temurin'
       - name: Build with Maven
-        run: mvn -B verify --file pom.xml -Dgpg.skip assembly:single
+        run: mvn clean -B verify --file pom.xml -Dgpg.skip assembly:single
       - run: |
           date > generated.txt
           git config user.name github-actions
