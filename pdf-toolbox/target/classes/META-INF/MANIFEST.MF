@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: com.github.librepdf.pdfToolbox
-Bnd-LastModified: 1644912786777
+Bnd-LastModified: 1644940890785
 Build-Jdk: 11.0.14
 Built-By: runneradmin
 Bundle-Description: Open and Free PDF library.
