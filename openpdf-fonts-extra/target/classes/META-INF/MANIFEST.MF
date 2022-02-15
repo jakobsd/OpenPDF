@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: com.github.librepdf.pdfFontsExtra
-Bnd-LastModified: 1644912130997
+Bnd-LastModified: 1644912792832
 Build-Jdk: 11.0.14
 Built-By: runneradmin
 Bundle-Description: Open and Free PDF library.
