@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: com.github.librepdf.pdfSwing
-Bnd-LastModified: 1644853957987
+Bnd-LastModified: 1644912116563
 Build-Jdk: 11.0.14
-Built-By: runner
+Built-By: runneradmin
 Bundle-Description: Open and Free PDF library.
 Bundle-License: http://www.gnu.org/licenses/lgpl.html, http://www.mozill
  a.org/MPL/2.0/

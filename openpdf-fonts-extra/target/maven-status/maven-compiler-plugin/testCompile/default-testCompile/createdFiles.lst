@@ -1,4 +1,4 @@
-org/librepdf/openpdf/fonts/FontsTestUtil.class
-org/librepdf/openpdf/fonts/LiberationTest.class
-org/librepdf/openpdf/fonts/UnicodePdfTest.class
-org/librepdf/openpdf/fonts/GreekAndCyrillicTest.class
+org\librepdf\openpdf\fonts\UnicodePdfTest.class
+org\librepdf\openpdf\fonts\LiberationTest.class
+org\librepdf\openpdf\fonts\FontsTestUtil.class
+org\librepdf\openpdf\fonts\GreekAndCyrillicTest.class

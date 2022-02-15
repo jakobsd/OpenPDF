@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: com.github.librepdf.pdfFontsExtra
-Bnd-LastModified: 1644853966554
+Bnd-LastModified: 1644912130997
 Build-Jdk: 11.0.14
-Built-By: runner
+Built-By: runneradmin
 Bundle-Description: Open and Free PDF library.
 Bundle-License: http://www.gnu.org/licenses/lgpl.html, http://www.mozill
  a.org/MPL/2.0/

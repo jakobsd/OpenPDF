@@ -1,106 +1,27 @@
-/opt/hostedtoolcache/Java_Temurin-Hotspot_jdk/11.0.14-9/x64/bin/javadoc
--Xdoclint:none
-@options
-@packages
--classpath
-'/home/runner/work/OpenPDF/OpenPDF/openpdf/target/openpdf-1.3.26.jar:/home/runner/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/runner/.m2/repository/org/swinglabs/pdf-renderer/1.0.5/pdf-renderer-1.0.5.jar:/home/runner/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar'
--encoding
-'UTF-8'
--protected
--source
-'8'
--sourcepath
-'/home/runner/work/OpenPDF/OpenPDF/pdf-swing/src/main/java:/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/generated-sources/annotations'
--author
--bottom
-'Copyright &#169; 2022. All rights reserved.'
--charset
-'UTF-8'
--d
-'/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs'
--docencoding
-'UTF-8'
--doctitle
-'pdf-swing 1.3.26 API'
--linkoffline
-'https://docs.oracle.com/javase/8/docs/api' '/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/javadoc-bundle-options'
--linkoffline
-'https://github.com/LibrePDF/OpenPDF/openpdf/apidocs' '/home/runner/work/OpenPDF/OpenPDF/openpdf/target/apidocs'
--use
--version
--windowtitle
-'pdf-swing 1.3.26 API'
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext.treenodes
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.itext
-com.lowagie.rups.view.models
-com.lowagie.rups.view.models
-com.lowagie.rups.view.models
-com.lowagie.rups.view.models
-com.lowagie.rups.view.icons
-com.lowagie.rups.view.icons
-com.lowagie.rups.view.icons
-com.lowagie.rups.view.icons
-com.lowagie.rups.view.icons
-com.lowagie.rups.view
-com.lowagie.rups.view
-com.lowagie.rups.view
-com.lowagie.rups.view
-com.lowagie.rups.controller
-com.lowagie.rups.controller
-com.lowagie.rups
-com.lowagie.rups.io.filters
-com.lowagie.rups.io
-com.lowagie.rups.io
-com.lowagie.rups.io
-com.lowagie.rups.io
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-com.lowagie.rups.model
-/home/runner/work/OpenPDF/OpenPDF/openpdf/target/openpdf-1.3.26.jar = 1644853949307
-/home/runner/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar = 1644853934770
-/home/runner/.m2/repository/org/swinglabs/pdf-renderer/1.0.5/pdf-renderer-1.0.5.jar = 1644853957599
-/home/runner/.m2/repository/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar = 1644853957579
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/src/main/java = 1644853914810
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/generated-sources/annotations = 1644853957611
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/serialized-form.html = 1644853960971
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/constant-values.html = 1644853960955
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/member-search-index.js = 1644853961143
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/package-search-index.js = 1644853961139
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/help-doc.html = 1644853961167
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/index.html = 1644853961163
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/overview-tree.html = 1644853961103
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/package-search-index.zip = 1644853961139
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/search.js = 1644853961171
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/stylesheet.css = 1644853961171
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/member-search-index.zip = 1644853961143
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/overview-summary.html = 1644853961163
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/element-list = 1644853960923
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/index-all.html = 1644853961143
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/type-search-index.zip = 1644853961139
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/script.js = 1644853961171
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/allclasses.html = 1644853961159
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/type-search-index.js = 1644853961139
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/allclasses-index.html = 1644853961147
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/deprecated-list.html = 1644853961155
-/home/runner/work/OpenPDF/OpenPDF/pdf-swing/target/apidocs/allpackages-index.html = 1644853961151
+cmd.exe
+/X
+/C
+"C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.14-9\x64\bin\javadoc.exe -Xdoclint:none @options @packages"
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\allclasses-index.html = 1644912121705
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\allclasses.html = 1644912121714
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\allpackages-index.html = 1644912121707
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\constant-values.html = 1644912121294
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\deprecated-list.html = 1644912121712
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\element-list = 1644912121182
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\help-doc.html = 1644912121725
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\index-all.html = 1644912121675
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\index.html = 1644912121721
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\member-search-index.js = 1644912121664
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\member-search-index.zip = 1644912121666
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\options = 1644912116895
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\overview-summary.html = 1644912121723
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\overview-tree.html = 1644912121571
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\package-search-index.js = 1644912121648
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\package-search-index.zip = 1644912121661
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\packages = 1644912116896
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\script.js = 1644912121732
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\search.js = 1644912121735
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\serialized-form.html = 1644912121331
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\stylesheet.css = 1644912121731
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\type-search-index.js = 1644912121662
+D:\a\OpenPDF\OpenPDF\pdf-swing\target\apidocs\type-search-index.zip = 1644912121663
