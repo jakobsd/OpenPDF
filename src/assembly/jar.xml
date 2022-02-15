@@ -29,7 +29,7 @@
       </includes>
       <binaries>
         <outputDirectory>modules/maven-assembly-plugin</outputDirectory>
-        <unpack>false</unpack>
+        <unpack>true</unpack>
       </binaries>
     </moduleSet>
   </moduleSets>
