@@ -454,7 +454,7 @@
                         <version>3.3.0</version>
                         <configuration>
                             <descriptors>
-                                <descriptor>src/assembly/bin.xml</descriptor>
+                                <descriptor>src/assembly/jar.xml</descriptor>
                             </descriptors>
                         </configuration>
                     </plugin>
